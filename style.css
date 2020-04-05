@@ -1,0 +1,12 @@
+.jumbotron {
+  /* Choisis la hauteur ici */
+  height: 500px;
+
+  /* Tu lui donnes une image de background */
+  background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url("https://images.pexels.com/photos/835615/pexels-photo-835615.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
+
+  /* Centre l'image et la met bien sur tous les écrans */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
